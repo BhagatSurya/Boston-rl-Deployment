@@ -21,3 +21,5 @@ Past 👇 this to Install all the librarys you need to Work
 ```
 pip install -r .\requirements.txt
 ```
+
+
